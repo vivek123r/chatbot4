@@ -1,15 +1,6 @@
-<<<<<<< HEAD
 streamlit==1.8.0
 langchain-core==0.0.1
 langchain-community==0.0.1
 langchain-openai==0.0.1
 langchain-openai-embeddings==0.0.1
 dotenv==0.19.1
-=======
-streamlit 
-langchain 
-lanchain-openai 
-beautifulsoup4 
-python-dotenv 
-chromadb
->>>>>>> d1fad2c75cab2a988ca3e6f05a01c8ba1c82cef1
